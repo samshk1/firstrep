@@ -1,5 +1,3 @@
-#Training 
+# Training 
 
-Update
-
-Sameer
+Final updates in readme file
